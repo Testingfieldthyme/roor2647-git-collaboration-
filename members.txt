@@ -1,3 +1,7 @@
 Användare på GitHub: Testingfieldthyme
 Namn: Robert Ortstad
 Epost: robert.ortstas.2647@student.uu.se
+
+Användare på GitHub: Person B är bara ett test.
+Namn: Detta på grund av att jag var tvungen att göra uppgiften själv.
+Epost: Fick ingen respons av att försöka göra uppgiften i grupp.
